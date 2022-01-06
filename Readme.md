@@ -11,7 +11,7 @@
 - Aprendizado inicial dos tipos e boas práticas.
 - Erros nem sempre muito claros ou então muito grandes.
 
-## Mitos e verdades do TypeScript.
+## Mitos do TypeScript.
 
 - "Vou ter que aprender tudo de novo"
 - "Vou precisar reescrever tudo para TypeScript."
@@ -19,4 +19,8 @@
 - "Só funciona com Programação Orientada a Objeto."
 - "Ele é verboso demais, precisa tipar tudo!"
 - "Só serve para projeto grande."
-- "É só usar PropTypes que dá na mesma! (Confia! XD)"
+- "É só usar PropTypes que dá na mesma! (Confia! XD)" 
+
+## Instalação TypeScript
+
+[Link para instalação](https://www.typescriptlang.org/download)
