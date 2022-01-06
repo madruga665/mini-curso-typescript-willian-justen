@@ -49,3 +49,11 @@ function error(): never {
 // object
 let cart: object;
 cart = { chave: "valor" };
+
+// Type Inference
+let message2 = "mensagem definida";
+message2 = "string nova";
+
+window.addEventListener("click", (event) => {
+  console.log(event.target);
+});
